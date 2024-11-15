@@ -1,0 +1,20 @@
+.head{
+    background-image: url(./Landing\ Page.png);
+    height: 700px;
+    width: 100%;
+    opacity: 100%;
+    z-index: -1;;
+}
+.heading{
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: #FAF3F0;
+        text-shadow: 1px 5px 10px #FFCACC, 1px 1px 10px #FFCACC;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 6rem;
+        
+      
+}
